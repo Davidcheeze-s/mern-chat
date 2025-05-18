@@ -21,9 +21,9 @@ Install Following Dependencies:
 14. Vite
 
 ## Credits to Coding with Dawid
-Mern-chat github repository: https://github.com/dejwid/mern-chat
-Youtube Profile: https://www.youtube.com/@CodingWithDawid
+### Mern-chat github repository: https://github.com/dejwid/mern-chat
+#### Youtube Profile: https://www.youtube.com/@CodingWithDawid
 
 ## Tutorial link
-https://www.youtube.com/watch?v=mYy-d6BtqmU&list=PLChiukrA-RMMHuqm3yEHNe6YPHTI7Hp34&index=8
+### https://www.youtube.com/watch?v=mYy-d6BtqmU&list=PLChiukrA-RMMHuqm3yEHNe6YPHTI7Hp34&index=8
 
