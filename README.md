@@ -25,6 +25,10 @@ It is designed with React and Tailwind CSS.
 2. JWT_SECRET = hardcoded key
 3. CLIENT_URL = from Vite
 
+### Create an "uploads" directory under api
+1. New folder
+2. Name it to "uploads"
+
 ## DOCUMENTATION
 https://docs.google.com/document/d/1Cw3XXn0t3eKYjCsVZaDNyey36wkchKTXjv1frb6el_w/edit?usp=sharing
 
