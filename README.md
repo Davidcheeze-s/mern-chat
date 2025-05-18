@@ -4,7 +4,7 @@ Mezzenger is a fullstack real-time chat app built with MERN stack. It features u
 It is designed with React and Tailwind CSS.
 
 ## Requirements
-Install Following Dependencies:
+### Install Following Dependencies:
 1. React
 2. Mongoose
 3. Express
@@ -19,6 +19,14 @@ Install Following Dependencies:
 12. Tailwind CSS
 13. Lodash
 14. Vite
+
+### Create .env file under api directory
+1. MONGO_URL = connection string from MongoDB
+2. JWT_SECRET = hardcoded key
+3. CLIENT_URL = from Vite
+
+## DOCUMENTATION
+https://docs.google.com/document/d/1Cw3XXn0t3eKYjCsVZaDNyey36wkchKTXjv1frb6el_w/edit?usp=sharing
 
 ## Credits to Coding with Dawid
 #### Mern-chat github repository: https://github.com/dejwid/mern-chat
